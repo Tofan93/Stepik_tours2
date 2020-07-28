@@ -93,6 +93,7 @@ AUTH_PASSWORD_VALIDATORS = [
                 '.NumericPasswordValidator',
     },
 ]
+STATIC_ROOT = 'static'
 
 
 # Internationalization
